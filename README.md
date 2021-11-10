@@ -12,3 +12,4 @@
  | ------------- | ------------- |
  | patient_id  | ID of the Patient |
  | appointment_id  | ID of the appointment |
+ | Gender | either male of female |
