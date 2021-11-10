@@ -12,4 +12,5 @@
  | ------------- | ------------- |
  | patient_id  | ID of the Patient |
  | appointment_id  | ID of the appointment |
- | Gender | either male of female |
+ | Gender | Either male of female |
+ | secheduled_day | the day someone called or registered the appointment, this is before appointment |
