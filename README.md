@@ -10,5 +10,5 @@
 
  | Columns  |  Description |
  | ------------- | ------------- |
- | Content Cell  | Content Cell |
- | Content Cell  | Content Cell |
+ | patient_id  | ID of the Patient |
+ | appointment_id  | ID of the appointment |
