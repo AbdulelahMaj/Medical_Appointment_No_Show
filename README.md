@@ -6,3 +6,9 @@
 
 > ## Dataset
 >> The datasets I will be using are taken from kaggle (https://www.kaggle.com/joniarroba/noshowappointments).  This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
+
+>> <br> | Columns        | Are          
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
