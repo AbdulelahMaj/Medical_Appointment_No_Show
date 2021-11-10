@@ -24,5 +24,11 @@
  | handicap | if the patient are handicap or not. true or false |
  | sms_received | how many messages sent to the patient |
  | no_show | if the patient show up or not. true or false |
+ 
+ > ## Tools
+ >> To explore and analyze the data, I will be using different tools such as Jupyter notebook, SQLite. Also, I will use different libraries with python such as pandas, numpy, matplotlib, seaborn.
+
+> ## Conclusion
+>> To conclude, I expect after analyzing and exploring the data to see the reason of the No Show for the appointments and if there is something forced the patient to not come to the appointment. I plan to have some suggestions that may improve the scheduling of the appointments.
 
 
