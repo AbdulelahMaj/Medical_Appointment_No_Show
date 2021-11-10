@@ -14,3 +14,8 @@
  | appointment_id  | ID of the appointment |
  | Gender | Either male of female |
  | secheduled_day | the day someone called or registered the appointment, this is before appointment |
+ | appointment_day | the day someone called or registered the appointment, this is before appointment |
+ | Age | how old is the patient |
+ | neighborhood | where the appointment takes place |
+ | scholarship | if the patient is registered in a program for poor people. [read more here](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia) |
+
