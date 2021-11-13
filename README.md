@@ -13,10 +13,10 @@
  | patient_id  | ID of the Patient |
  | appointment_id  | ID of the appointment |
  | Gender | Either male of female |
- | secheduled_day | the day someone called or registered the appointment, this is before appointment |
- | appointment_day | the day someone called or registered the appointment, this is before appointment |
+ | secheduled_day | on what day the patient set up their appointment |
+ | appointment_day | it is the appointment day |
  | age | how old is the patient |
- | neighborhood | where the appointment takes place |
+ | neighborhood |  the location of the hospital |
  | scholarship | if the patient is registered in a program for poor people. [read more here](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia) |
  | hypertension | high blood pressure. True or false |
  | diabetes | a chronic (long-lasting) health condition. true or false |
